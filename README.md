@@ -1,2 +1,2 @@
 # qPCR
-qPCR simulation code
+qPCR simulation code.
